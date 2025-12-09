@@ -1,1 +1,1 @@
-print('Dit is een superklein python scriptje')
+print('Dit is een superklein python scriptje met een aanpassing')
